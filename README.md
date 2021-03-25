@@ -7,4 +7,4 @@ Showcasing PBR textures and image based lighting. There are no external lights i
 
 ![glium-physics showcase](https://user-images.githubusercontent.com/25313161/112499662-142f0480-8d5e-11eb-8cf2-bab2c18701f0.mov)
 
-Sample physics demo. The purple texture is a phyiscs collision object made up of triangles (trimesh) and the model bouncing is using a box for the collision detection.
+Sample physics demo. The purple texture is a phyiscs collision object made up of triangles (trimesh) and the model bouncing is using a box for the collision detection. Both have high restitution in this demo.
