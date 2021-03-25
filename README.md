@@ -6,7 +6,7 @@ Work in progress rendering + physics engine. Uses standard PBR lighting techniqu
 <img width="1155" alt="112530834-48fe8400-8d7d-11eb-94e7-775411644365" src="https://user-images.githubusercontent.com/25313161/112534169-21a9b600-8d81-11eb-8192-0ce05e7bb83c.png">
 
 
-![mov-to-gif-1-3](https://user-images.githubusercontent.com/25313161/112530884-5287ec00-8d7d-11eb-995d-597420fce6a5.gif)
+![rendering_showcase_gif](https://user-images.githubusercontent.com/25313161/112530884-5287ec00-8d7d-11eb-995d-597420fce6a5.gif)
 
 Showcasing PBR textures and image based lighting. There are no external lights in this scene, the model is lit up exclusively by the skybox.
 
@@ -14,6 +14,6 @@ Showcasing PBR textures and image based lighting. There are no external lights i
 
 Different `.hdr` skybox.
 
-![glium-physics showcas](https://user-images.githubusercontent.com/25313161/112530981-6c293380-8d7d-11eb-9dfc-518f09886463.gif)
+![physics_showcase_gif](https://user-images.githubusercontent.com/25313161/112534710-c7f5bb80-8d81-11eb-8e02-9c01504c3172.gif)
 
 Sample physics demo. The purple texture is a phyiscs collision object made up of triangles (trimesh) and the model bouncing is using a box for the collision detection. Both have high restitution in this demo.
