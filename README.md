@@ -17,3 +17,7 @@ Different `.hdr` skybox.
 ![physics_showcase_gif](https://user-images.githubusercontent.com/25313161/112534710-c7f5bb80-8d81-11eb-8e02-9c01504c3172.gif)
 
 Sample physics demo. The purple texture is a phyiscs collision object made up of triangles (trimesh) and the model bouncing is using a box for the collision detection. Both have high restitution in this demo.
+
+![physics_angular_showcase_gif](https://user-images.githubusercontent.com/25313161/112535435-aea13f00-8d82-11eb-9d95-4b4f182b2025.gif)
+
+Another physics demonstration, this time showing angular velocity and gravity.
