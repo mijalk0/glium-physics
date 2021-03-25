@@ -3,7 +3,8 @@ Work in progress rendering + physics engine. Uses standard PBR lighting techniqu
 
 <img width="1149" alt="image" src="https://user-images.githubusercontent.com/25313161/112530796-400db280-8d7d-11eb-8e4a-353697add8e5.png">
 
-<img width="1160" alt="image" src="https://user-images.githubusercontent.com/25313161/112530834-48fe8400-8d7d-11eb-94e7-775411644365.png">
+<img width="1155" alt="112530834-48fe8400-8d7d-11eb-94e7-775411644365" src="https://user-images.githubusercontent.com/25313161/112534169-21a9b600-8d81-11eb-8192-0ce05e7bb83c.png">
+
 
 ![mov-to-gif-1-3](https://user-images.githubusercontent.com/25313161/112530884-5287ec00-8d7d-11eb-995d-597420fce6a5.gif)
 
